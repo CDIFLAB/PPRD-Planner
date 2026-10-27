@@ -2,6 +2,12 @@
 
 ## Experimental Demonstration
 
-<video src="https://github.com/user-attachments/assets/85a0dc33-adb7-4f2c-be54-0a7e1d4b5ec9" controls width="100%"></video>
+<video
+  src="https://github.com/user-attachments/assets/c3265564-7b2f-4aa9-a201-10b8b2ffb847"
+  controls
+  width="800">
+</video>
+
+
 
 The code will be made available once it is accepted for publication. 
